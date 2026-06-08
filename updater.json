@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.0",
-  "notes": "First release of NoteLox",
-  "pub_date": "2026-06-07T00:00:00Z",
+  "version": "0.1.1",
+  "notes": "Added robust PKCE exchange for cross-platform Google Login and fixed GitHub OAuth Scopes. Security optimizations applied.",
+  "pub_date": "2026-06-08T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdHA4RG1uaDlmNTJaVGVPT2c5bitOL3ZQVGJzZEh4M0pIcVZwazlLZ1Z5Y3UrMmNYZ3lONE8rWjIyM1NDQWwxYjIyRExvMzNQanRiYktmbmZRN0lsY2JXcjJMRWI4VUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzc4NzI5CWZpbGU6Tm90ZUxveF8wLjEuMF94NjQtc2V0dXAuZXhlCmdDMU9kT2NkeVJ4RE91Y000ZGdJQUU3dUlIb2ZzYUJnbDhSRDdyOGhhajdMS3NqZzQ1QXV2SXBmdlNxQzFRWGlnSzBEeEJnaml6aU02UWpsS2hRMERRPT0K",
-      "url": "https://github.com/notelox/notelox/releases/download/v0.1.0/NoteLox_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdHA4RG1uaDlmNTMzTEo2OU5FZUxWSW9ucXdBL0x6STV2RHVrV0dpRHZmRVFnK1hWc20wV2hWRUlVZ3pIMkVIV2ZqWE9vdFdlSnlCSlpWYjJvenczSFVZdnZIUTBKYVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODgyOTE0CWZpbGU6Tm90ZUxveF8wLjEuMV94NjQtc2V0dXAuZXhlCmZuYlRtTytyT1c3b1UrZHZGRCtJT2R0ejJ2R0dUN0hmc2tIL2V0TXNBLzFMWllKYUFHUHcxeS8rYUJOdndhQzVqSlc3d2pDZzZKa2NNV1Z6NTJ5dEFRPT0K",
+      "url": "https://github.com/notelox/notelox/releases/download/v0.1.1/NoteLox_0.1.1_x64-setup.exe"
     }
   }
 }
